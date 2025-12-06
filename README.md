@@ -39,44 +39,12 @@
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
-
-### Задание 4
-
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+<img width="1678" height="885" alt="image" src="https://github.com/user-attachments/assets/22433404-6f5b-4812-a343-a9acce0ea3da" />
+<img width="1678" height="885" alt="image" src="https://github.com/user-attachments/assets/50582939-f121-45e8-be9e-f5b9692eaa6f" />
+<img width="1693" height="961" alt="image" src="https://github.com/user-attachments/assets/dc5139a9-f9d7-44b7-ab4e-9dac61c96d62" />
+<img width="1693" height="980" alt="image" src="https://github.com/user-attachments/assets/3d9bede1-c0be-49fe-8a8a-51b4376ee951" />
+<img width="1255" height="1015" alt="image" src="https://github.com/user-attachments/assets/563cdf18-82f8-44e0-b98a-025eefd87964" />
+<img width="1255" height="1015" alt="image" src="https://github.com/user-attachments/assets/f940fdb7-7a0e-4c4c-9cb4-65e8f01aa656" />
+<img width="1693" height="206" alt="image" src="https://github.com/user-attachments/assets/58e45a8c-7a99-4b93-82d3-291fdef24f0c" />
+<img width="1255" height="135" alt="image" src="https://github.com/user-attachments/assets/3aa2ebb8-e0b7-42fc-ae3e-2eb40d38ff06" />
+<img width="711" height="152" alt="image" src="https://github.com/user-attachments/assets/253eac9a-bf28-4a0f-b828-7fde7258ceb8" />
